@@ -29,7 +29,8 @@ display : block;
 
 }
 .textconnecter{
-	text-align : center;
+	text-align : left;
+	padding-left : 2%;
 }
 .projet1{
 	withd : 400px;
@@ -358,6 +359,6 @@ font-family:Georgia, sans-serif;
 	border : solids;
 }
 .inscrp h2{
-	 text-align : center;
-	 padding-bottom:30px;
+	 text-align : left;
+	padding-left: 3%;
 }
